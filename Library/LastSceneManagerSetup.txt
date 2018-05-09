@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Unity Projects/Desktop/Assets/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
